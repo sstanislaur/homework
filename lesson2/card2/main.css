@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    border: solid 1px black;
+    font-weight: normal;
+    font-family: "Times New Roman";
+    margin: 150px;
+    padding: 15px;
+}
+
+h2 {
+    padding: 50px;
+    font-family: "Times New Roman";
+    font-weight: normal;
+}
+
+p {
+    text-align: center;
+    padding: 20px;
+    font-family: "Times New Roman";
+    color: rgba(0, 0, 0, 40%);
+    font-size: 45px;
+}
+
+.box {
+    background: white;
+    width: 600px;
+    height: 700px;
+    margin: 20px;
+    border: solid 1px black;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 36px;
+}
+
+
+
