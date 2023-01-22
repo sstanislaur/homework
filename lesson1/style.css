@@ -1,0 +1,33 @@
+h1 {
+    color: aliceblue;
+    background: #ffd71c;
+}
+
+h2 {
+    color: blue;
+    background: #ffd71c;
+}
+
+ul {
+    color: aquamarine;
+}
+
+li {
+    color: darkmagenta;
+}
+
+p {
+    color: #ffd71c;
+    background: cornsilk;
+    text-align: justify-all;
+}
+
+a {
+    color: crimson;
+}
+
+img {
+    width: 200px;
+    display: block;
+    border: 1px solid crimson;
+}
