@@ -1,0 +1,28 @@
+.father {
+    background: silver;
+    margin: 20px;
+}
+
+.box {
+    height: 200px;
+    background: orange;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}
+
+.box:nth-child(2) {
+    height: 500px;
+}
+
+.box1 {
+    background: orange;
+    border: 5px solid white;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}

@@ -1,0 +1,14 @@
+@media screen and (min-width: 0) and (max-width: 768px) {
+    .box1 {
+        height: 400px;
+        background: orange;
+    }
+    .box2 {
+        height: 150px;
+        width: 150px;
+        background: orange;
+        margin: 10px;
+
+
+    }
+}
