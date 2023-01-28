@@ -3,12 +3,34 @@
         height: 400px;
         background: orange;
     }
+
     .box2 {
         height: 150px;
         width: 150px;
         background: orange;
         margin: 10px;
-
-
+        position: relative;
+        top: 50px;
+        left: 15px;
     }
+
+    .box3 {
+        height: 150px;
+        width: 150px;
+        background: orange;
+        margin: 10px;
+        position: relative;
+        top: 50px;
+        left: 15px;
+    }
+.box4 {
+    height: 200px;
+    background: orange;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    top: 100px;
+}
 }
