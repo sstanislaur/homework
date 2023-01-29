@@ -1,16 +1,25 @@
 .father {
-    background: silver;
-    margin: 20px;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 20px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
 .box {
     height: 200px;
-    background: orange;
+    background: silver;
     border: 5px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 36px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
 .box:nth-child(2) {
@@ -18,11 +27,15 @@
 }
 
 .box1 {
-    background: orange;
+    background: silver;
     border: 5px solid white;
     height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 36px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }

@@ -1,13 +1,13 @@
 @media screen and (min-width: 0) and (max-width: 768px) {
     .box1 {
         height: 400px;
-        background: orange;
+        background: silver;
     }
 
     .box2 {
         height: 150px;
         width: 150px;
-        background: orange;
+        background: silver;
         margin: 10px;
         position: relative;
         top: 50px;
@@ -17,7 +17,7 @@
     .box3 {
         height: 150px;
         width: 150px;
-        background: orange;
+        background: silver;
         margin: 10px;
         position: relative;
         top: 50px;
@@ -25,12 +25,15 @@
     }
 .box4 {
     height: 200px;
-    background: orange;
+    background: silver;
     border: 5px solid white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 36px;
     top: 100px;
+}
+.container {
+    height: 1110px;
 }
 }
