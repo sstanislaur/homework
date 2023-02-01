@@ -2,10 +2,14 @@ let a = 'hello';
 let b = 'owu.com.ua';
 console.log(a, b);
 
-let c;
-c = [1, 10, -999, 123, 3.14, 2.7, 16];
-
-console.log(c);
+let c = 1;
+let c1 = 10;
+let c2 = -999;
+let c3 = 123;
+let c4 = 3.14;
+let c5 = 2.7;
+let c6 = 16;
+console.log(c, c1, c2, c3, c4, c5, c6);
 let d = true;
 console.log(d);
 let s = false;
@@ -19,12 +23,12 @@ let person = ` ${firstname} ${middlename} ${lastname}`;
 console.log(person);
 
 
-// object
-let person1 = [
-    firstname1 = 'Lisnychuk',
-    middlename1 = 'Stas',
-    lastname1 = 'Mykolayovych'
-]
+// obj
+let person1 = {
+    firstname: 'Lisnychuk',
+    middlename: 'Stas',
+    lastname: 'Mykolayovych'
+}
 console.log(person1);
 
 
