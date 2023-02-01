@@ -10,15 +10,17 @@ let c4 = 3.14;
 let c5 = 2.7;
 let c6 = 16;
 console.log(c, c1, c2, c3, c4, c5, c6);
+
 let d = true;
 console.log(d);
+
 let s = false;
 console.log(s);
 
 
 let firstname = 'Lisnychuk';
 let middlename = 'Stas';
-let lastname = 'Mykolayovych'
+let lastname = 'Mykolayovych';
 let person = ` ${firstname} ${middlename} ${lastname}`;
 console.log(person);
 
