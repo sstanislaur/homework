@@ -25,15 +25,6 @@ let person = ` ${firstname} ${middlename} ${lastname}`;
 console.log(person);
 
 
-// obj
-let person1 = {
-    firstname: 'Lisnychuk',
-    middlename: 'Stas',
-    lastname: 'Mykolayovych'
-}
-console.log(person1);
-
-
 // typeof
 let q = 100;
 console.log(typeof q);
